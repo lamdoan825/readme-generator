@@ -1,5 +1,5 @@
 # Readme Generator
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Github URL
 
@@ -34,13 +34,13 @@ npm i
 
 ## Usage
 
-Create a readme
+Create a readme for user project
 
 ## License
 
-      Copyright © MIT. All rights reserved. 
+      Copyright © ISC. All rights reserved. 
       
-      Licensed under the MIT license.
+      Licensed under the ISC license.
 
 
 ## Contributors
