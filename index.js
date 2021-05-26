@@ -23,22 +23,27 @@ const questions = [
     message: "What's the name of your project?"
   },
   {
+    type: "input",
+    name: "description",
+    message: "Describe your project:"
+  },
+  {
     type: "list",
     name: "license",
     message: "What license does your project have?",
-    choices: ["MIT", "APACHE", "GPL", "BSD", "None"]
+    choices: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "BSD2" ,"BSD3", "None"]
   },
   {
     type: "input",
     name: "dependencies",
     message: "Any dependencies to install?",
-    default: "npm i"
+    //default: "npm i"
   },
   {
     type: "input",
     name: "test",
     message: "What command should be run to start tests?",
-    default: "npm test"
+    //default: "npm test"
   },
   {
     type: "input",
@@ -50,7 +55,7 @@ const questions = [
     name: "contributors",
     message: "Who are the contributors of this repo?",
   }
-
+  
 ];
 
 

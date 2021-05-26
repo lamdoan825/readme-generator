@@ -1,31 +1,36 @@
 # a
-  
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Github URL
+
+[a](https://github.com/a/)
 
 ## Description
 
-undefined
+a
+
 
 ## Table of Contents
 
-* [Dependencies](#dependencies)
+* [Installations](#dependencies)
 
 * [Usage](#usage)
 
-
+* [License](#license)
 
 * [Contributors](#contributors)
 
 * [Test](#test)
 
-* [Questions](#questions)
 
-## Dependencies
+## Installations (Dependencies)
 
 To install dependencies, run these commands:
 
 ```
-aa
+a
 ```
+
 
 ## Usage
 
@@ -33,13 +38,17 @@ a
 
 ## License
 
-This project is licensed by .
+      Copyright © MIT. All rights reserved. 
+      
+      Licensed under the MIT license.
+
 
 ## Contributors
 
 a
-a
-[a](https://github.com/a/)
+
+Contact me at a
+
 
 ## Tests
 
@@ -48,5 +57,4 @@ To run tests, run these commands:
 ```
 a
 ```
-
 
