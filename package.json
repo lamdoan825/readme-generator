@@ -18,5 +18,6 @@
   "homepage": "https://github.com/lamdoan825/readme-generator#readme",
   "dependencies": {
     "inquirer": "^8.0.0"
-  }
+  },
+  "devDependencies": {}
 }
