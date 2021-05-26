@@ -31,19 +31,19 @@ const questions = [
     type: "list",
     name: "license",
     message: "What license does your project have?",
-    choices: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "BSD2" ,"BSD3", "None"]
+    choices: ["MIT", "ISC", "APACHE2.0", "Boost1.0", "GPL3.0", "BSD2" ,"BSD3", "None"]
   },
   {
     type: "input",
     name: "dependencies",
     message: "Any dependencies to install?",
-    //default: "npm i"
+    default: "npm i"
   },
   {
     type: "input",
     name: "test",
     message: "What command should be run to start tests?",
-    //default: "npm test"
+    default: "npm test"
   },
   {
     type: "input",

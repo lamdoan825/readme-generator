@@ -1,13 +1,13 @@
-# a
+# Readme Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Github URL
 
-[a](https://github.com/a/)
+[lamdoan825](https://github.com/lamdoan825/)
 
 ## Description
 
-a
+It is a node.js tool that helps users create a readme
 
 
 ## Table of Contents
@@ -28,13 +28,13 @@ a
 To install dependencies, run these commands:
 
 ```
-a
+npm i
 ```
 
 
 ## Usage
 
-a
+Create a reame
 
 ## License
 
@@ -45,9 +45,9 @@ a
 
 ## Contributors
 
-a
+lamdoan825
 
-Contact me at a
+Contact me at lamdoan825@gmail.com
 
 
 ## Tests
@@ -55,6 +55,6 @@ Contact me at a
 To run tests, run these commands:
 
 ```
-a
+npm test
 ```
 
