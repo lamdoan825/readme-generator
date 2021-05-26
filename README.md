@@ -27,8 +27,8 @@ A Node.js based tool that users can use to generate a read me for their repo pro
 
 
 ## Screenshots
-ss of readme
-ss of test![image](https://user-images.githubusercontent.com/80074766/119625509-e010a800-bdcf-11eb-8aac-337c4b32ed6c.png)
+![image](https://user-images.githubusercontent.com/80074766/119625509-e010a800-bdcf-11eb-8aac-337c4b32ed6c.png)
+![image](https://user-images.githubusercontent.com/80074766/119625601-fc144980-bdcf-11eb-8062-245c6bbc82b8.png)
 
 ## Technologies Used
 <p><a href="https://nodejs.org/">Node.js</a></p>
