@@ -77,7 +77,6 @@ function renderLink(license) {
   return ''
 }
 
-
 // Function to render section
 function renderSection(license) {
   if (license !== "None") {

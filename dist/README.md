@@ -34,7 +34,7 @@ npm i
 
 ## Usage
 
-Create a reame
+Create a readme
 
 ## License
 
